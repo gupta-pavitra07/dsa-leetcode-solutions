@@ -12,7 +12,13 @@ Solved 65+ problems on LeetCode.
 - Math
 
 ## Language
-C++
+C++,C
+
+## Progress
+- Total Problems Solved: 60+
+- Easy: 25
+- Medium: 37
+- Hard: 1
 
 ## Goal
 To improve problem-solving skills and prepare for coding interviews.
