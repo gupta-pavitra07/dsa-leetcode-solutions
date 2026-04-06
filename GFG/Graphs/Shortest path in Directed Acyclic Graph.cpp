@@ -1,6 +1,6 @@
 // Platform: GFG
-// Problem: Shortest Path in Undirected Graph
-// Link: https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph/1
+// Problem: Shortest Path in directed Graph
+// Link: https://www.geeksforgeeks.org/problems/shortest-path-in-directed-graph/1
 // Approach: Topological Sort (for DAG)
 
 // Key Idea:
